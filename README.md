@@ -1,1 +1,1 @@
-# C ++Projects
+# Built a Random Password Generator using C++ that allows users to generate secure passwords of any length. Users can select options to include uppercase letters, lowercase letters, numbers, and special characters to enhance security, ensuring strong and unique passwords.
