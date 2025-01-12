@@ -7,7 +7,7 @@ using namespace std;
 
 string genPass(int len, bool up, bool low, bool dig, bool schar)
 {
-  string chars = "";
+  string chars = " ";
 
   if (up)
     chars += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
